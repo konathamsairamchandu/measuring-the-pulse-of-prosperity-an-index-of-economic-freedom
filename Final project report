@@ -1,0 +1,105 @@
+📘 Final Report – Measuring the Pulse of Prosperity
+An Index of Economic Freedom Analysis
+1. Introduction
+Economic freedom empowers individuals to decide how they work, spend, and invest. In such societies, markets operate with minimal government interference, promoting prosperity and opportunity. The Heritage Foundation’s Index of Economic Freedom annually measures these freedoms across four pillars and twelve indicators—shedding light on how freedom fosters stability, growth, and wellbeing.
+
+2. Objective
+This project analyzes 2022 Index of Economic Freedom data across 176 countries to:
+
+Visualize global freedom scores through maps and charts.
+
+Uncover relationships between pillars and national prosperity.
+
+Highlight regional strengths and weaknesses.
+
+Integrate interactive dashboards and stories via Tableau into a web frontend.
+
+3. Methodology
+A. Data Acquisition
+Source: Heritage Foundation – Index Data
+
+Format: XLS/CSV (2022 data)
+
+B. Pillars & Indicators
+The Index includes 4 Pillars composed of 12 Indicators:
+
+Pillar	Indicators
+Rule of Law	Property Rights, Judicial Effectiveness, Government Integrity
+Government Size	Tax Burden, Government Spending, Fiscal Health
+Regulatory Efficiency	Business Freedom, Labor Freedom, Monetary Freedom
+Open Markets	Trade Freedom, Investment Freedom, Financial Freedom
+
+Each indicator is scored from 0 to 100 and averaged equally.
+
+C. Visualization
+Built four Tableau dashboards and seven storyboards
+
+Published on Tableau Public and embedded into a responsive Bootstrap website hosted on Netlify
+
+4. Key Findings
+4.1 Global Snapshot
+The global average score declined from 61.6 to ~60.
+
+This marks the largest one-year drop in the Index's history.
+
+4.2 Top & Bottom Performers
+Top Countries: Singapore, Switzerland, Ireland, Taiwan, Luxembourg (Scores > 80)
+
+Bottom Countries: North Korea, Cuba, Venezuela, Sudan
+
+4.3 Country Trends
+USA dropped to 25th place, its lowest ever, largely due to fiscal health deterioration.
+
+4.4 Correlation with Prosperity
+Strong correlation between economic freedom and GDP per capita, HDI, and poverty reduction.
+
+5. Interactive Dashboards & Stories
+✅ Dashboards:
+
+World Map – Distribution of freedom scores globally
+
+Pillar Comparison – Rank and compare countries by each pillar
+
+Time Trends – Historical evolution of key countries
+
+Regional Storyboards – Insights into specific geographical trends
+
+6. Policy Implications & Recommendations
+Reduce government overspending to improve fiscal health
+
+Protect core freedoms like property rights and judicial independence
+
+Simplify regulations to enhance business and labor productivity
+
+Encourage open markets to drive innovation and inclusivity
+
+7. Conclusion
+The 2022 Index underscores that greater economic freedom aligns with higher prosperity, better health, and improved democratic outcomes. However, the decline in freedom globally demands a renewed commitment to economic liberty.
+
+8. Next Steps
+Add time-series forecasting and machine learning for GDP growth prediction
+
+Include qualitative case studies (e.g., Argentina, Singapore)
+
+Enhance web UX: add navbar, filters, mobile support
+
+📁 Final Submission Links
+🔗 Live Website (Netlify):
+🌐 https://beautiful-licorice-3af660.netlify.app/
+
+🔗 GitHub Repository (Code + Assets):
+📁 https://github.com/konathamsairamchandu/measuring-the-pulse-of-prosperity-an-index-of-economic-freedom
+
+🔗 Tableau Public Dashboards:
+📊 https://public.tableau.com/app/profile/konatham.sai.ram.chandu/vizzes
+
+📄 Dataset (Google Drive):
+🗂 Index of Economic Freedom – 2022 Dataset
+
+
+
+
+
+
+
+
